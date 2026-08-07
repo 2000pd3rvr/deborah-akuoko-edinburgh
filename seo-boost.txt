@@ -1,4 +1,4 @@
-last_seo_boost=2026-08-07T19:36:52Z
+last_seo_boost=2026-08-07T19:44:57Z
 slug=deborah-akuoko-edinburgh
 platforms=github+pages+huggingface
 public=true
