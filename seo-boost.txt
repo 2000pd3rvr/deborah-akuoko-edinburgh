@@ -1,7 +1,7 @@
-last_seo_boost=2026-08-10T07:44:01Z
+last_seo_boost=2026-08-10T07:59:57Z
 slug=deborah-akuoko-edinburgh
 platforms=huggingface+github+pages
-prefer=huggingface
+prefer=wordpress
 hf=https://huggingface.co/0001AMA/deborah-akuoko-edinburgh
 public=true
 purpose=machine-intelligence-technical-profile
